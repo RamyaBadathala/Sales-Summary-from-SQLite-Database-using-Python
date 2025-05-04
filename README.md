@@ -40,4 +40,14 @@ python sales_summary.py
 
 4.The script will display a summary and save a bar chart as total_revenue_per_product.png.
 
-This project is ideal for beginners looking to understand the integration of SQL queries within Python and basic data visualization techniques.
+| Requirement                |              | Explanation                                                                               |
+| -------------------------- | ---------- | ----------------------------------------------------------------------------------------- |
+| **Use SQL inside Python**  | ✅          | The script uses the `sqlite3` module to connect to a SQLite database and run SQL queries. |
+| **Pull simple sales info** | ✅          | It retrieves total quantity sold and total revenue grouped by product.                    |
+| **Basic print statements** | ✅          | It prints the summary results in the terminal.                                            |
+| **Simple bar chart**       | ✅          | It uses `matplotlib` to display a bar chart showing total revenue per product.            |
+
+📝 Summary:
+The project provides a minimal, functional example of extracting and visualizing sales data using SQL in Python — ideal for educational or proof-of-concept use.
+ 
+    This project is ideal for beginners looking to understand the integration of SQL queries within Python and basic data visualization techniques.
