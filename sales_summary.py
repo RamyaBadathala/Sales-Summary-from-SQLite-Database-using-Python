@@ -58,3 +58,14 @@ plt.show()
 # Step 6: Close connection
 conn.close()
 
+
+
+output:
+
+| Product | Total Quantity | Revenue (\$) |
+| ------- | -------------- | ------------ |
+| Apples  | 15             | 7.50         |
+| Bananas | 40             | 12.00        |
+| Oranges | 30             | 18.00        |
+
+
